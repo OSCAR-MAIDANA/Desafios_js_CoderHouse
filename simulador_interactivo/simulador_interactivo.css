@@ -4,6 +4,7 @@
 
 .texto_home {
     text-align: center;
-    font-size: medium;
     color: black;
+    font-family: "Mr Dafoe", cursive;
+    font-size: 20px;
 }
